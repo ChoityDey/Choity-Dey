@@ -501,6 +501,14 @@ body{
         font-size:20px;
         margin:8px 0
     }
+    .bannar-content h2 span{
+    display: block;
+    margin-top: 10px;
+    }
+    .contact-form{
+    -ms-flex-preferred-size: 55%;
+        flex-basis: 55%;
+}
     
 }
 @media only screen and (max-width:767px){
